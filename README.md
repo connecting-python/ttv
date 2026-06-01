@@ -32,10 +32,12 @@ project/
 
 ### Installation
 
-1. Download Piper.
+1. Download Piper.(Or download the piper.zip file from above.)
 2. Download a Persian model.
-3. Place the files in the folders shown above.
-4. Run:
+3.   fa_IR-amir-medium.onnx:https://huggingface.co/rhasspy/piper-voices/resolve/v1.0.0/fa/fa_IR/amir/medium/fa_IR-amir-medium.onnx?download=true
+4.   fa_IR-amir-medium.onnx.json:https://huggingface.co/rhasspy/piper-voices/resolve/v1.0.0/fa/fa_IR/amir/medium/fa_IR-amir-medium.onnx.json?download=true
+5. Place the files in the folders shown above.
+6. Run:
 
 ```bash
 python main.py
