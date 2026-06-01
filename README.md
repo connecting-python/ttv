@@ -32,8 +32,8 @@ project/
 
 ### Installation
 
-1. Download Piper.(Or download the piper.zip file from above.)
-2. Download a Persian model.
+1. Download Piper.(download the piper.zip file from above.)
+2. Download a Persian model:
 3.   fa_IR-amir-medium.onnx:https://huggingface.co/rhasspy/piper-voices/resolve/v1.0.0/fa/fa_IR/amir/medium/fa_IR-amir-medium.onnx?download=true
 4.   fa_IR-amir-medium.onnx.json:https://huggingface.co/rhasspy/piper-voices/resolve/v1.0.0/fa/fa_IR/amir/medium/fa_IR-amir-medium.onnx.json?download=true
 5. Place the files in the folders shown above.
@@ -86,10 +86,12 @@ project/
 
 ### نصب
 
-1. Piper را دانلود کنید.
-2. مدل فارسی را دانلود کنید.
-3. فایل‌ها را در پوشه‌های مناسب قرار دهید.
-4. دستور زیر را اجرا کنید:
+1. Piper را دانلود کنید.(فایل piper.zip را از بالا دانلود کنید)
+2. مدل فارسی را دانلود کنید:
+3. fa_IR-amir-medium.onnx:https://huggingface.co/rhasspy/piper-voices/resolve/v1.0.0/fa/fa_IR/amir/medium/fa_IR-amir-medium.onnx?download=true
+4. fa_IR-amir-medium.onnx.json:https://huggingface.co/rhasspy/piper-voices/resolve/v1.0.0/fa/fa_IR/amir/medium/fa_IR-amir-medium.onnx.json?download=true
+5. فایل‌ها را در پوشه‌های مناسب قرار دهید.
+6. دستور زیر را اجرا کنید:
 
 ```bash
 python main.py
